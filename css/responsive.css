@@ -136,6 +136,10 @@
         gap: 2rem;
     }
     
+    .faq-grid {
+        grid-template-columns: 1fr;
+    }
+    
     .fleet-tab-navigation {
         flex-wrap: wrap;
     }
