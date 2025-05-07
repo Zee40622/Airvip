@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Air VIP | Premium Travel Services</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 0; line-height: 1.6; }
+    header, section { padding: 20px; max-width: 1000px; margin: auto; }
+    header { background: #1a1a1a; color: #fff; text-align: center; padding: 50px 20px; }
+    h1 { margin: 0; font-size: 2.5em; }
+    h2 { color: #1a1a1a; border-bottom: 2px solid #eee; padding-bottom: 5px; }
+    .service { background: #f9f9f9; padding: 20px; margin-top: 20px; border-radius: 10px; }
+    .testimonial, .faq { margin-top: 20px; }
+    footer { text-align: center; background: #1a1a1a; color: white; padding: 20px; }
+    .whatsapp-button {
+      display: inline-block;
+      background-color: #25D366;
+      color: white;
+      padding: 10px 20px;
+      border-radius: 5px;
+      text-decoration: none;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Elite Travel Experience – Professional Support from Arrival to Destination</h1>
+    <p>Whether you need professional airport meet & greet concierge support or reliable executive and corporate ground coordination, Air VIP delivers premium service with precision and care across the United Kingdom.</p>
+  </header>
+
+  <section>
+    <h2>About Us</h2>
+    <p>Air VIP specializes in two essential services tailored for today’s business and luxury travelers: <strong>Meet & Greet Airport Concierge Services</strong> and <strong>Business Executive & Corporate Ground Services</strong>. With national coverage across the UK, we ensure seamless experiences from airport arrivals to corporate logistics wherever you travel.</p>
+  </section>
+
+  <section>
+    <h2>Why Choose Us</h2>
+    <ul>
+      <li>Reliable, professional service nationwide</li>
+      <li>Customizable solutions for corporate clients</li>
+      <li>Expert local knowledge at all major UK airports</li>
+      <li>24/7 availability and responsive customer care</li>
+      <li>Multilingual, discreet staff</li>
+    </ul>
+  </section>
+
+  <section class="service">
+    <h2>Airport Concierge Services</h2>
+    <h3>UK Airport Concierge</h3>
+    <ul>
+      <li>Arrivals, departures, and transfers</li>
+      <li>Fast-track immigration and security</li>
+      <li>Baggage and porter assistance</li>
+      <li>Lounge access and personal escort</li>
+    </ul>
+    <h3>Meet and Greet Airport Services</h3>
+    <ul>
+      <li>Terminal or curbside greeting</li>
+      <li>Check-in, boarding, and gate assistance</li>
+      <li>Coordination with transport or airline</li>
+      <li>VIP, family, and special needs support</li>
+    </ul>
+  </section>
+
+  <section class="service">
+    <h2>Business Executive & Corporate Services</h2>
+    <h3>Corporate Travel Support</h3>
+    <ul>
+      <li>Arrival and departure logistics</li>
+      <li>Event and meeting coordination</li>
+      <li>Delegate and VIP guest handling</li>
+    </ul>
+    <h3>Executive Travel Management</h3>
+    <ul>
+      <li>Board meetings and conferences</li>
+      <li>Roadshows and group support</li>
+      <li>Hotel and venue coordination</li>
+    </ul>
+  </section>
+
+  <section class="testimonial">
+    <h2>Testimonials</h2>
+    <blockquote>“Their team managed every step of our executive delegation’s travel across the UK. A flawless experience.” – Laura P.</blockquote>
+    <blockquote>“From fast-track to conference support, the concierge and corporate coordination was top-class.” – James K.</blockquote>
+    <blockquote>“Our foreign guests were impressed. The service was smooth, professional, and discreet.” – Nadeem S.</blockquote>
+  </section>
+
+  <section class="faq">
+    <h2>FAQs</h2>
+    <p><strong>Q:</strong> Do you operate outside Manchester?<br><strong>A:</strong> Yes, we cover all major UK airports and cities.</p>
+    <p><strong>Q:</strong> Can I book a service for an entire group?<br><strong>A:</strong> Absolutely, we specialize in handling groups and delegations.</p>
+    <p><strong>Q:</strong> What happens if my flight is delayed?<br><strong>A:</strong> We track all flights and adjust schedules to accommodate delays.</p>
+    <p><strong>Q:</strong> Is Meet & Greet available at night?<br><strong>A:</strong> Yes, our services are available 24/7.</p>
+    <p><strong>Q:</strong> Do you assist with special needs passengers?<br><strong>A:</strong> Yes, we offer support for elderly, disabled, and unaccompanied minors.</p>
+    <p><strong>Q:</strong> Can you handle diplomatic or celebrity guests?<br><strong>A:</strong> Yes, we have experience with high-profile clients requiring privacy and discretion.</p>
+    <p><strong>Q:</strong> How early should I book?<br><strong>A:</strong> We recommend at least 24 hours in advance, but we can accommodate urgent requests when possible.</p>
+    <p><strong>Q:</strong> Can services be customized for corporate clients?<br><strong>A:</strong> Yes, all services are fully customizable to your business needs.</p>
+    <p><strong>Q:</strong> What payment methods do you accept?<br><strong>A:</strong> We accept major credit cards, bank transfers, and corporate invoicing.</p>
+    <p><strong>Q:</strong> Is there a cancellation policy?<br><strong>A:</strong> Yes, we provide full details during the booking process.</p>
+  </section>
+
+  <footer>
+    <p><strong>Contact Air VIP Today</strong></p>
+    <p>Email: reservations@airvips.co.uk</p>
+    <p>Phone: +44 161 241 7977</p>
+    <p>WhatsApp: <a href="https://wa.me/447710826269" target="_blank" class="whatsapp-button">Message Us on WhatsApp</a></p>
+    <p>Address: 31 Newton Road, Wilmslow, Cheshire SK9 4DZ</p>
+    <p>Serving All Major UK Airports & Cities | 24/7 Service</p>
+  </footer>
+</body>
+</html>

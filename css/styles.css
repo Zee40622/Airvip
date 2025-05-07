@@ -377,6 +377,66 @@
     font-size: 1.6rem;
 }
 
+/* Service Detailed Sections */
+.service-detailed {
+    background-color: var(--secondary-color);
+    border-radius: var(--border-radius);
+    padding: 4rem;
+    margin-bottom: 3rem;
+    transition: var(--transition);
+    position: relative;
+    overflow: hidden;
+}
+
+.service-detailed::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 3px;
+    background-color: var(--primary-color);
+    transition: var(--transition);
+    z-index: 0;
+}
+
+.service-detailed:hover::before {
+    height: 100%;
+    opacity: 0.05;
+}
+
+.service-detailed-title {
+    font-size: 2.8rem;
+    margin-bottom: 2.5rem;
+    color: var(--primary-color);
+    position: relative;
+}
+
+.service-detailed-content {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 3rem;
+}
+
+.service-detailed-subtitle {
+    font-size: 2rem;
+    margin-bottom: 1.5rem;
+    color: var(--light-color);
+}
+
+.service-detailed-list {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.service-detailed-list li {
+    display: flex;
+    align-items: center;
+    color: var(--gray-color);
+    font-size: 1.6rem;
+}
+
 /* Fleet Section */
 .fleet {
     padding: 10rem 0;
