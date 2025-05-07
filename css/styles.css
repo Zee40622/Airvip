@@ -364,18 +364,22 @@
 .service-icon {
     margin-bottom: 2rem;
     color: var(--primary-color);
+    display: flex;
+    justify-content: center;
 }
 
 .service-title {
     font-size: 2.2rem;
     margin-bottom: 1.5rem;
     color: var(--light-color);
+    text-align: center;
 }
 
 .service-description {
     color: var(--gray-color);
     font-size: 1.6rem;
     margin-bottom: 2rem;
+    text-align: center;
 }
 
 .service-image {
@@ -424,6 +428,7 @@
     margin-bottom: 2.5rem;
     color: var(--primary-color);
     position: relative;
+    text-align: center;
 }
 
 .service-detailed-content {
@@ -436,6 +441,7 @@
     font-size: 2rem;
     margin-bottom: 1.5rem;
     color: var(--light-color);
+    text-align: center;
 }
 
 .service-detailed-list {
